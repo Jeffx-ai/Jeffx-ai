@@ -11,7 +11,7 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: Am shy in person
 
-## :email: Find me on:
+## Find me on:
 
 <p align="center">
  <a href="https://twitter.com/SirGeoffrey_?s=09"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
